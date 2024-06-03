@@ -1,0 +1,16 @@
+name = "SlowGameSim"
+uuid = "406dfce8-05d6-4777-91f2-a404faae8ea4"
+authors = ["Heliax AG"]
+version = "0.1.0"
+
+[deps]
+AxisArrays = "39de3d68-74b9-583c-8d2d-e117c070f3a9"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OptimalTransport = "7e02d93a-ae51-4f58-b602-d97af76e3b33"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+TensorCore = "62fd8b95-f654-4bbd-a8a5-9c27f68ccd50"
+Tulip = "6dd1b50a-3aae-11e9-10b5-ef983d2400fa"
